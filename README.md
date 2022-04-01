@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Github either physcially or remotely 
 - 📫 How to reach me, on Github: ballymuyi
+-     I am an IT Support personnel who has keen interets in coding
+-     reach me anytime
 
 <!---
 ballymuyi/ballymuyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
